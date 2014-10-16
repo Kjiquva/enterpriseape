@@ -10,8 +10,8 @@ Feel free to access [my portfolio](http://portfolio.jordanhudgens.com).
 
 > ## Etiam pulvinar sollicitudin gravida.
 > Nam nam nam nec justo magna.
-> This mah *gravida*
-> This mah **GRAVIDA**.
+> This mah italicized *gravida*
+> This mah bold **gravida**.
 
 ### Crazy Good
 * Rapid Development
